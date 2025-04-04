@@ -11,15 +11,15 @@ I'm a data-driven financial analyst and systems developer passionate about trans
 
 ## 🏢 Professional Experience
 
-### iTrust | Financial Analyst & Systems Developer
-📍 Dar es Salaam, Tanzania | 🗓️ 2022 – Present
+### iTrust | Digital Business Officer
+📍 Dar es Salaam, Tanzania | 🗓️ 2025 – Present
 
 - Designed investment dashboards for internal and external stakeholders.
 - Automated fund performance reports and benchmark analytics.
 - Led development of a portfolio management system for stocks, bonds, and unit trusts.
 - Maintained internal servers for Superset, Coolify, and version control.
 
-### Tanzania Securities Ltd | Analyst & Researcher
+### Tanzania Securities Ltd | Project Operation Manager
 📍 Dar es Salaam, Tanzania | 🗓️ 2020 – 2022
 
 - Delivered market reports and client-focused research.
@@ -35,8 +35,8 @@ Fixed Income, Unit Trusts, Equity Markets, Yield Curve Modeling, Portfolio Theor
 
 ## 🎓 Education
 
-**University of Dar es Salaam**  
-Bachelor of Commerce in Finance | GPA: 4.0 | 🗓️ 2017 – 2020
+**Institute of Accountancy Arusha (IAA)**  
+Bachelor of Economics and Finance | GPA: 4.0 | 🗓️ 2013 – 2016
 
 ## 📌 Projects
 
